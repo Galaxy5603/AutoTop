@@ -3,8 +3,9 @@ local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
 Event:FireServer(A_1, A_2)
 
-
-
+Move1 = "Anger Rush"
+Move2 = "Blaster Meteor"
+Move3 = "Chain Destructo Disk"
 
 _G.HardTop = false
 _G.AutoWish = true
